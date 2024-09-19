@@ -1,0 +1,9 @@
+<mod displayName="Longer Star Planet List UI" 
+	 unique="Spore-LongerStarPlanetListUI" 
+	 description="Extend the planet list in the star tooltip in Space stage so it can show more than 5 planets" 
+	 installerSystemVersion="1.0.1.2" 
+	 isExperimental="false" 
+	 dllsBuild="2.5.340"
+>
+	<prerequisite>Spore-LongerStarPlanetListUI.dll</prerequisite>
+</mod>
